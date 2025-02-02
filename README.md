@@ -2,14 +2,14 @@
 
 <img align="right" src="beryllium.png" width="400" alt="Windows installation on beryllium">
 
-[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnF1)
 
-## ⚠️ Warning
+
+## ⚠️ Ахтунг
 - _Я не несу ответственно за ваш девайс.._
 - _Проект на ранней стадии разработки, так что смотри гайд внимательно._
 
 #
-## Get Started
+## Приступим
 - [_Как ставить? ](guide/Installation.md)
 
 - [_Чо по дровам?_](guide/update.md)
