@@ -1,42 +1,42 @@
 <img align="right" src="beryllium.png" width="350" alt="Windows installation on beryllium">
 
 
-# Windows installation guide for PocoF1
-## Project Status
+# Установка винды на PocoF1
+## Статус
 
-The project is in development. Expect some updates in the future.
+Проект находится в разработке. Ждите обнов в будущем.
 
-#### Features
+#### Чо там по компонентам
 
-- [X] Audio 
-- [X] Battery status
+- [X] Аудио
+- [X] Батарея
 - [x] Bluetooth
-- [x] Brightness 
-- [ ] Camera
-- [x] Cellular
-- [x] Charging ```slow, use QC3.0 or PD```
-- [x] Display
-- [x] GPU  ```No x64 acceleration```
-- [x] SD card ```must be inserted before boot```
-- [x] Touchscreen 
+- [x] Яркость
+- [ ] Камера
+- [x] Мобильный интернет
+- [x] Зарядка ```медленная, используйте QC3.0 or PD```
+- [x] Дислпей
+- [x] GPU  ```Увы, без х64 ускорения```
+- [x] Сд карта ```Не имеет горячей замены```
+- [x] Тач
 - [x] UFS
 - [x] USB
 - [x] Wi-Fi
-- [x] Flashlight
+- [x] Фонарик
 
-#### Sensors
-- [x] Accelerometer
-- [ ] Fingerprint
+#### Сенсоры
+- [x] Акселерометр
+- [ ] Отпечаток пальца(он хоть где-то работает?
 - [x] GPS
-- [x] Gyroscope
-- [ ] Light sensor
+- [x] Гироскоп
+- [ ] Световой датчик
 - [x] Magnetometer
-- [ ] Proximity
+- [ ] Датчик приближения
 
-#### Security
+#### Безопасность
 
-- [ ] Security Processor ```Impossible to get working, Xiaomi broke the firmware```
-- [ ] TPM (Software Backed)
+- [ ] Защита процессора ```Невозможно, потому что сяоми все сломали(((```
+- [ ] TPM (не помню)
 
 
 
