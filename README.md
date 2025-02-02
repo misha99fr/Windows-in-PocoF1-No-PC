@@ -1,4 +1,4 @@
-# _Windows Installation Guide for PocoF1 [Without PC]_
+# _Windows Installation Guide for Pocophone F1 [No PC lol]_
 
 <img align="right" src="beryllium.png" width="400" alt="Windows installation on beryllium">
 
