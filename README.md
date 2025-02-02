@@ -1,29 +1,29 @@
-# _Windows Installation Guide for Pocophone F1 [No PC lol]_
+# _Установка Windows 11 для Pocophone F1 [Без компа]_
 
 <img align="right" src="beryllium.png" width="400" alt="Windows installation on beryllium">
 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnF1)
 
 ## ⚠️ Warning
-- _We're not responsible for any damage. Do it on your own risk._
-- _This project is in an early stage, follow all the steps carefully._
+- _Я не несу ответственно за ваш девайс.._
+- _Проект на ранней стадии разработки, так что смотри гайд внимательно._
 
 #
 ## Get Started
-- [_Installation Instructions_](guide/Installation.md)
+- [_Как ставить? ](guide/Installation.md)
 
-- [_Update Drivers_](guide/update.md)
+- [_Чо по дровам?_](guide/update.md)
   
-- [_Troubleshooting_](guide/troubleshooting.md)
+- [_Памагити_](guide/troubleshooting.md)
 #
-## Miscellaneous
-- [_Project Status_](guide/status.md)
+## Разное
+- [_Статус_](guide/status.md)
 
-- [_Additional Materials_](guide/materials.md)
+- [_Доп. материалы_](guide/materials.md)
 
-- [_Uninstall Instructions_](guide/uninstall.md)
+- [_Удаление винды_](guide/uninstall.md)
 #
-## Contributors
+## Те, кто делал и помогал.
 [<img alt="adomerlee" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109386069?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/adomerlee)
 [<img alt="Morc" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/13377926?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/TheMorc)
 [<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
