@@ -1,23 +1,23 @@
-# PocoF1 Windows Installation [Without PC]
+# PocoF1 Установка Винды 11 [Без пека]
 <img align="right" src="beryllium.png" width="350" alt="Windows installation on beryllium">
 
 [![download](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/assets/20044626/3abc8b52-c5c6-4495-b623-d1312195d639)]()
 ## Steps for Installation
-- 1st Step - Partitioning
-- 2nd Step - Installation
-- 3rd Step - Dual Boot
+- 1 шаг - Разметка
+- 2 шаг - Установка
+- 3 шаг - Дуалбут
 #
-### Prerequisites
-- _A Working Brain (most important of all)_
+### Необходимо
+- _Мозги_(Обязательно)
 
-- _Unlocked bootloader_ 
+- _Анлокнутый загрузчик_ 
 
-- _Rooted and Installed Custom Recovery_
+- _Рут и кастомное рекавери_
 #
-### [WARNING]
-> - _All your data will be erased ! Back up now if needed._
+### [Ахтунг]
+> - _Все данные будут удалены! Сделайте бэкап _
 > - _Backup Important Partition (Boot, EFS, Modem and Persist) and copy it to outside phone memory_
-> - _Your phone must be rooted, if it is not, follow [root](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/blob/main/guide/root.md) guide before start the process._
+> - _нужен рут[root](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/blob/main/guide/root.md) guide before start the process._
 > - _Do not flash/run the same file/command twice unless specified._
 > - _Follow step by step guide, don't jump or skip any step._
 > - _YOU CAN BREAK YOUR DEVICE WITH THE COMMANDS/FILE BELOW IF YOU DO THEM WRONG!!!_
