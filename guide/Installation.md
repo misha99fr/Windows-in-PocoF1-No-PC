@@ -16,10 +16,10 @@
 #
 ### [Ахтунг]
 > - _Все данные будут удалены! Сделайте бэкап _
-> - _Backup Important Partition (Boot, EFS, Modem and Persist) and copy it to outside phone memory_
-> - _нужен рут[root](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/blob/main/guide/root.md) guide before start the process._
-> - _Do not flash/run the same file/command twice unless specified._
-> - _Follow step by step guide, don't jump or skip any step._
+> - _Сделать бэкап важных разделов (Boot, EFS, Modem and Persist) и скопируйте из внутренней памяти
+> - _нужен [root](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/blob/main/guide/root.md) почитайте этот гайд перед этим
+> - _не прошивайте /не выполняйте одни и те же файлы или команды 2 раза если указано._
+> - СЛЕДУЙТЕ ГАЙДУ ВНИМАТЕЛЬНО
 > - _YOU CAN BREAK YOUR DEVICE WITH THE COMMANDS/FILE BELOW IF YOU DO THEM WRONG!!!_
 > - _DO NOT REBOOT YOUR PHONE! If you think you made a mistake, ask for help in the [Telegram chat](https://t.me/WinInstaller)._
 #
